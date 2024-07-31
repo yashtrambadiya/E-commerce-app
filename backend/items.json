@@ -1,0 +1,221 @@
+{
+  "items": [
+    [
+      {
+        "id": "001",
+        "image": "images/1.jpg",
+        "company": "Klosia ",
+        "item_name": "Women Viscose Rayon Kurta Pant Dupatta Set",
+        "original_price": 3999,
+        "current_price": 799,
+        "discount_percentage": 80,
+        "return_period": 14,
+        "delivery_date": "29 june 2024",
+        "rating": { "stars": 4.1, "count": 830 }
+      },
+      {
+        "id": "002",
+        "image": "images/2.jpg",
+        "company": "Annsh Apparel ",
+        "item_name": "Women Printed Viscose Rayon Straight Kurta  (Black)",
+        "original_price": 1999,
+        "current_price": 249,
+        "discount_percentage": 87,
+        "return_period": 14,
+        "delivery_date": "29 june 2024",
+        "rating": { "stars": 4.7, "count": 1245 }
+      },
+      {
+        "id": "003",
+        "image": "images/3.jpg",
+        "company": "nike",
+        "item_name": "GLYCERIN 21 Running Shoes For Men  (Black , 9)",
+        "original_price": 16449,
+        "current_price": 12967,
+        "discount_percentage": 21,
+        "return_period": 14,
+        "delivery_date": "29 june 2024",
+        "rating": { "stars": 4.1, "count":1021 }
+      },
+      {
+        "id": "004",
+        "image": "images/4.jpg",
+        "company": "Roadster",
+        "item_name": "Men Printed Henley Neck Cotton Blend Black T-Shirt",
+        "original_price": 899,
+        "current_price": 342,
+        "discount_percentage": 61,
+        "return_period": 14,
+        "delivery_date": "29 june 2024",
+        "rating": { "stars": 4.7, "count": 422 }
+      },
+      {
+        "id": "005",
+        "image": "images/5.jpg",
+        "company": "COMBRAIDED ",
+        "item_name": "Men Slim Fit Black Lycra Blend Trousers",
+        "original_price": 1499,
+        "current_price": 299,
+        "discount_percentage": 80,
+        "return_period": 14,
+        "delivery_date": "29 june 2024",
+        "rating": { "stars": 3.9, "count": 26900 }
+      },
+      {
+        "id": "006",
+        "image": "images/6.jpg",
+        "company": "BEARDO",
+        "item_name": "BEARDO Godfather Perfume, | Premium, Strong & Long Lasting Fragrance Eau de Parfum - 50 ml  (For Men)",
+        "original_price": 449,
+        "current_price": 224,
+        "discount_percentage": 50,
+        "return_period": 14,
+        "delivery_date": "29 june 2024",
+        "rating": { "stars": 4.1, "count": 2328 }
+      },
+      {
+        "id": "007",
+        "image": "images/7.jpg",
+        "company": "Kuchipoo",
+        "item_name": "Boys Printed Cotton Blend Regular T Shirt ",
+        "original_price": 1899,
+        "current_price": 696,
+        "discount_percentage": 63,
+        "delivery_date": "29 june 2024",
+        "rating": { "stars": 4.1, "count": 1268 }
+      },
+      {
+        "id": "008",
+        "image": "images/8.jpg",
+        "company": "Fastrack ",
+        "item_name": "Neon Analog Watch - For Men NG38003PP13C",
+        "original_price": 825,
+        "current_price": 825,
+        "discount_percentage": 0,
+        "return_period": 14,
+        "delivery_date": "29 june 2024",
+        "rating": { "stars": 4.2, "count": 5200 }
+      },
+      {
+        "id": "009",
+        "image": "images/9.jpg",
+        "company": "Wakefit ",
+        "item_name": "Wakefit ShapeSense Orthopedic Classic Memory Foam 6 inch King High Resilience (HR) Foam Mattress",
+        "original_price": 20665,
+        "current_price": 12399,
+        "discount_percentage": 40,
+        "return_period": 14,
+        "delivery_date": "29 june 2024",
+        "rating": { "stars": 4.6, "count": 109500 }
+      },
+      {
+        "id": "010",
+        "image": "images/10.jpg",
+        "company": "FLYING&SAM  ",
+        "item_name": "Women Flats Sandal  (Black , 8)",
+        "original_price": 999,
+        "current_price": 280,
+        "discount_percentage": 70,
+        "return_period": 14,
+        "delivery_date": "29 june 2024",
+        "rating": { "stars": 4, "count": 488 }
+      },
+      {
+        "id": "011",
+        "image": "images/11.jpg",
+        "company": "RAMESHWARAM FABRICS",
+        "item_name": "RAMESHWARAM FABRICS Readymade Elastic Cotton Silk Dhoti for men, Free Size, Ready to wear Dhoti Only Solid Men Dhoti",
+        "original_price": 1550,
+        "current_price": 428,
+        "discount_percentage": 72,
+        "return_period": 14,
+        "delivery_date": "29 june 2024",
+        "rating": { "stars": 3.9, "count": 700 }
+      },
+      {
+        "id": "012",
+        "image": "images/12.jpg",
+        "company": "VI-JOHN",
+        "item_name": "VI-JOHN Charcoal Shaving Foam Infused with Joboba oil Pack of 1  (300 g)",
+        "original_price": 299,
+        "current_price": 149,
+        "discount_percentage": 50,
+        "return_period": 14,
+        "delivery_date": "29 june 2024",
+        "rating": { "stars": 4.1, "count": 625 }
+      },
+      {
+        "id": "013",
+        "image": "images/13.jpg",
+        "company": "Dukiekooky",
+        "item_name": "UV Protection Retro Square Sunglasses (Free Size)  (For Boys & Girls, Black)",
+        "original_price": 799,
+        "current_price": 330,
+        "discount_percentage": 58,
+        "return_period": 14,
+        "delivery_date": "29 june 2024",
+        "rating": { "stars": 3.6, "count": 231 }
+      },
+      {
+        "id": "014",
+        "image": "images/14.jpg",
+        "company": "FLOWFIT ",
+        "item_name": "Women Mid Rise Black Jeans",
+        "original_price": 1499,
+        "current_price": 489,
+        "discount_percentage": 67,
+        "return_period": 14,
+        "delivery_date": "29 june 2024",
+        "rating": { "stars": 3.9, "count": 3005}
+      },
+      {
+        "id": "015",
+        "image": "images/15.jpg",
+        "company": "SPROUTED",
+        "item_name": "Men Cargos",
+        "original_price": 1290,
+        "current_price": 799,
+        "discount_percentage": 38,
+        "return_period": 14,
+        "delivery_date": "29 june 2024",
+        "rating": { "stars": 3.8, "count": 2800 }
+      },
+      {
+        "id": "016",
+        "image": "images/16.jpg",
+        "company": "The Indian Garage Co.",
+        "item_name": "Men Slim Fit Solid Spread Collar Formal Shirt",
+        "original_price": 1899,
+        "current_price": 649,
+        "discount_percentage": 66,
+        "return_period": 14,
+        "delivery_date": "29 june 2024",
+        "rating": { "stars": 3.8, "count": 261 }
+      },
+      {
+        "id": "017",
+        "image": "images/17.jpg",
+        "company": "SHOETOPIA",
+        "item_name": "Boots,Casual,Party Wear, Daily Wear, Trendy, Comfortable Stylish Boots For Women  (Tan , 6)",
+        "original_price": 1999,
+        "current_price": 999,
+        "discount_percentage": 50,
+        "return_period": 14,
+        "delivery_date": "29 june 2024",
+        "rating": { "stars": 4.1, "count": 2498 }
+      },
+      {
+        "id": "018",
+        "image": "images/18.jpg",
+        "company": "PETER ENGLAND",
+        "item_name": "Men Single breasted Solid Suit",
+        "original_price": 5499,
+        "current_price": 3549,
+        "discount_percentage": 34,
+        "return_period": 14,
+        "delivery_date": "29 june 2024",
+        "rating": { "stars": 3.5, "count": 279 }
+      }
+    ]
+  ]
+}
